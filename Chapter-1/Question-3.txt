@@ -1,0 +1,8 @@
+Answer for Question - 3 :
+In linear data structures, the data items are stored in an example
+
+In Non-Homogeneous data structures, All the data items may or may not be of the same type Structure is an example
+
+In Static data structures, the size and structure's associated memory locations are fixed during compile time.
+
+Dynamic data structures can expand or shrink depending upon the program need and its execution. This expansion and shrinking happens during the program runtime.

@@ -1,0 +1,9 @@
+Answer for Question - 1 :
+
+Data is raw facts and information is processed data.
+
+A Data structure is an arrangement of data in a particular way.
+
+Data Structure represents the mathematical model of arranging the data.
+
+Data Structure is used to represent the real world data and its operations in the computer program.

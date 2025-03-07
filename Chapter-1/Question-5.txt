@@ -1,0 +1,10 @@
+Answer for Question - 5 :
+An algorithm is said to be efficient and fast, if it takes less time to execute and consumes less memory space.
+
+Instruction Space is the space required to store the executable version of program.
+
+Heap is the segment where dynamic memory allocation usually takes place.
+
+Stack is a segment where automatic variables and function call stack is stored.
+
+When we are measuring the space complexity analysis of an algorithm, we consider only the  Data Space of the algorithm and ignore the Instruction space and Environmental Space. This means we calculate only the memory required to store Variables, Constants, Structures.

@@ -1,0 +1,5 @@
+Answer for Question - 2 :
+
+In a linear data structure, the data is stored in a sequential order.
+
+Trees, Graphs, Dictionaries and Heaps are some examples of non-linear data structure

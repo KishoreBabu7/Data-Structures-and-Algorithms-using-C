@@ -1,0 +1,6 @@
+Answer for Question - 4 :
+There should be a finite number of steps in the algorithm.
+
+An algorithm should be generating at least one output.
+
+Pseudo codes or Flowcharts are used to express the algorithm
